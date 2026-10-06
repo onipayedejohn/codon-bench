@@ -1,0 +1,6 @@
+LOCUS       HBB_START   120 bp    DNA
+DEFINITION  Beta-globin, first 120 bases of the coding sequence.
+ORIGIN
+        1 atggtgcatc tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac
+       61 gtggatgaag ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag
+//

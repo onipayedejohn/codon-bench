@@ -1,0 +1,34 @@
+{
+  "mouse":{
+    "transcripts":2428,
+    "non_canonical_introns_skipped":220,
+    "donor_pos":7383,
+    "acceptor_pos":7356,
+    "donor_neg":183607,
+    "acceptor_neg":183657,
+    "coding_pos":5570,
+    "coding_neg":5568,
+    "coding_neg_sources":{
+      "intron":1950,
+      "intergenic":1669,
+      "lncRNA":1114,
+      "UTR":835
+    }
+  },
+  "human":{
+    "transcripts":367,
+    "non_canonical_introns_skipped":42,
+    "donor_pos":766,
+    "acceptor_pos":767,
+    "donor_neg":19150,
+    "acceptor_neg":19175,
+    "coding_pos":257,
+    "coding_neg":257,
+    "coding_neg_sources":{
+      "intron":91,
+      "intergenic":77,
+      "lncRNA":51,
+      "UTR":38
+    }
+  }
+}

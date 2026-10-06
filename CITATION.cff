@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Codon Bench: sequence, mutation and machine-learning analysis for DNA, RNA and proteins"
+type: software
+authors:
+  - family-names: Onipayede
+    given-names: John Kwaku
+version: 2.0.0
+date-released: 2026-10-06
+license: MIT
+repository-code: "https://github.com/onipayedejohn/codon-bench"
+keywords:
+  - bioinformatics
+  - genomics
+  - machine learning
+  - splice site prediction
+  - variant annotation
+  - HGVS
+  - Shiny for Python

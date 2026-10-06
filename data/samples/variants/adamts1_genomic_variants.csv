@@ -1,0 +1,10 @@
+id,pos,ref,alt
+exon1_missense,686,A,G
+exon1_synonymous,686,A,C
+exon1_nonsense,692,A,T
+intron1_donor_plus1,1386,G,A
+intron1_donor_plus5,1390,A,G
+intron1_acceptor_minus2,2923,A,G
+intron1_deep,2000,G,A
+exon2_frameshift_del,3000,CG,C
+exon3_inframe_del,3650,CTTG,C

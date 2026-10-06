@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+*.log
+rsconnect-python/
+training/raw/
+scripts/dev/
+codonbench/mutations_ui_old.py
+training/processed/splice_donor_mouse.csv.gz
+training/processed/splice_acceptor_mouse.csv.gz

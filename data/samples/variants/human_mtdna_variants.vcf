@@ -1,0 +1,20 @@
+##fileformat=VCFv4.2
+##source=Well-characterised human mitochondrial variants against the rCRS
+##contig=<ID=NC_012920.1,length=16569>
+##INFO=<ID=NOTE,Number=1,Type=String,Description="What the variant is known for">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_012920.1	73		A	G	.	PASS	NOTE=D-loop_HVS2,_common_polymorphism
+NC_012920.1	263		A	G	.	PASS	NOTE=D-loop,_common_polymorphism
+NC_012920.1	310		T	TC	.	PASS	NOTE=D-loop_poly-C_insertion_(315.1C),_common
+NC_012920.1	1555		A	G	.	PASS	NOTE=MT-RNR1,_aminoglycoside-induced_hearing_loss
+NC_012920.1	2706		A	G	.	PASS	NOTE=MT-RNR2,_2706G_marks_non-H_haplogroups_(rCRS_carries_the_H_allele_A)
+NC_012920.1	3243		A	G	.	PASS	NOTE=MT-TL1,_MELAS
+NC_012920.1	3460		G	A	.	PASS	NOTE=MT-ND1_A52T,_LHON
+NC_012920.1	4216		T	C	.	PASS	NOTE=MT-ND1_Y304H,_haplogroup_JT
+NC_012920.1	7028		C	T	.	PASS	NOTE=MT-CO1_A375A_synonymous,_7028T_marks_non-H_haplogroups_(rCRS_carries_the_H_allele_C)
+NC_012920.1	8344		A	G	.	PASS	NOTE=MT-TK,_MERRF
+NC_012920.1	8993		T	G	.	PASS	NOTE=MT-ATP6_L156R,_NARP
+NC_012920.1	11719		G	A	.	PASS	NOTE=MT-ND4_G320G_synonymous,_haplogroup_marker_(rCRS_carries_G)
+NC_012920.1	11778		G	A	.	PASS	NOTE=MT-ND4_R340H,_LHON
+NC_012920.1	14484		T	C	.	PASS	NOTE=MT-ND6_M64V,_LHON
+NC_012920.1	15326		A	G	.	PASS	NOTE=MT-CYB_T194A,_common_polymorphism
