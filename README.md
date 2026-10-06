@@ -140,6 +140,7 @@ The app runs on Posit Connect Cloud with `app.py` as the entry point. It used ab
 ## Citation
 
 > Onipayede, J. K. (2026). *Codon Bench: sequence, mutation and machine-learning analysis for DNA, RNA and proteins* (Version 2.0.0) [Software]. https://github.com/onipayedejohn/codon-bench
+> Live url: https://onipayedejohn-codon-bench.share.connect.posit.cloud/
 
 See `CITATION.cff`.
 
